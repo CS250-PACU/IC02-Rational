@@ -6,7 +6,7 @@ Practice on Classes**
 <b>Problem:</b> A rational number is defined to be any number that
 can be expressed in the form p/q where p and q are each integers and q
 is not equal to 0. For this problem, we are only going to consider
-non-negative rational numbers (i.e. the numberator can be any whole
+non-negative rational numbers (i.e. the numerator can be any whole
 number and the denominator can be any natural number)
 
 <b>Task: </b> In Visual Studio, a solution named **Rational** exists.
