@@ -25,7 +25,7 @@ You are to write code as follows:
     the program.
 
 3.  Implement the constructor for the class Rational in a file named
-    **Rational.cpp** which is to exists in the Source Files folder.
+    **Rational.cpp** which is to exist in the Source Files folder.
 
 4.  Write a driver (main) in **RationalDriver.cpp** that creates two
     Rational objects where one is created using the default constructor
